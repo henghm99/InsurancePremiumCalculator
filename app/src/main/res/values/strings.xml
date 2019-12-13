@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_text">Insurance Premium Calculator</string>
+    <string name="age_text">Age :</string>
+    <string name="gender_text">Gender :</string>
+    <string name="smoker_text">Smoker :</string>
+    <string name="insurance_text">Insurance Premium :</string>
+    <string name="male_text">Male</string>
+    <string name="female_text">Female</string>
+    <string name="yes_text">Yes</string>
+    <string name="reset_text">Reset</string>
+    <string name="calculate_text">Calculate</string>
+</resources>
